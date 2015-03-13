@@ -6,7 +6,7 @@ gem 'activeadmin', github: 'activeadmin'
 gem 'delayed_job_active_record', '~> 4.0.3'
 gem 'devise'
 gem 'inherited_resources', github: 'josevalim/inherited_resources', branch: 'rails-4-2'
-gem 'rails', '4.1.6'
+gem 'rails', '~> 4.1.6'
 gem 'unicorn'
 
 group :assets do
